@@ -28,7 +28,7 @@ edit/credits.json
 edit/durations.json
 /app/public/dist/server/app/models/precomputed/*.json
 tests/samples/*
-lib
+/lib
 /logs/*.log
 export/dbg_output_pmdo_full_ani
 export/*.json
