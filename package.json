@@ -80,6 +80,7 @@
     "immer": "^11.0.1",
     "jimp": "^1.6.0",
     "loglevel": "^1.8.1",
+    "lucide-react": "^1.14.0",
     "markdown-to-config": "^0.4.0",
     "marked": "^18.0.2",
     "matter-js": "^0.20.0",
